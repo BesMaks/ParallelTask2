@@ -1,0 +1,4 @@
+﻿  ParallelIndivLab2.cpp
+D:\cppProgs\ParallelIndivLab2\ParallelIndivLab2\ParallelIndivLab2.cpp(16,41): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\cppProgs\ParallelIndivLab2\ParallelIndivLab2\ParallelIndivLab2.cpp(114,7): warning C4101: hpen: неиспользованная локальная переменная
+  ParallelIndivLab2.vcxproj -> D:\cppProgs\ParallelIndivLab2\Debug\ParallelIndivLab2.exe
